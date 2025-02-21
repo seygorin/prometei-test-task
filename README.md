@@ -55,6 +55,6 @@ docker-compose up --build
 
 ### Samples images
 
-![image](https://i.postimg.cc/g0cXwwDk/Screenshot-2025-02-21-at-12-15-05.png)
 ![image](https://i.postimg.cc/y8g9hKnT/Screenshot-2025-02-21-at-13-01-08.png)
-![image](https://i.postimg.cc/0NXfRHCk/Screenshot-2025-02-21-at-13-03-00.png)
+![image](https://i.postimg.cc/g0cXwwDk/Screenshot-2025-02-21-at-12-15-05.png)
+
